@@ -73,3 +73,5 @@ can be built using a bundler such as Webpack or Create React App.
 
 The server-side code can be deployed to a Node.js hosting platform such as Heroku or AWS Elastic Beanstalk.
 Configure the environment variables required by the server (e.g., MongoDB connection URL, Firebase credentials) using a .env file or the hosting platform's environment variable settings.
+
+To run the application, you have to start the server in your console with "nodemon server", leave the server running before starting the client side with npm start
